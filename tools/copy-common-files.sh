@@ -18,3 +18,7 @@ cp platform/chromium/*.js          $DES/js/
 cp platform/chromium/*.html        $DES/
 cp platform/chromium/*.json        $DES/
 cp LICENSE.txt                     $DES/
+
+# Add dtmx files
+mkdir -p $DES/dtmx
+cp -R ../dist/*                    $DES/dtmx/

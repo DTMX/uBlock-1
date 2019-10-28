@@ -1,5 +1,5 @@
 {
-  "author": "All uBlock Origin contributors",
+  "author": "Datamarx/uBlock open-source contributors",
   "background": {
     "page": "background.html"
   },
@@ -8,8 +8,8 @@
       "16": "img/icon_16.png",
       "32": "img/icon_32.png"
     },
-    "default_title": "uBlock Origin",
-    "default_popup": "popup.html"
+    "default_title": "MyMarx",
+    "default_popup": "/dtmx/index.html"
   },
   "commands": {
     "launch-element-zapper": {
@@ -34,7 +34,8 @@
       "js": [
         "/js/vapi.js",
         "/js/vapi-client.js",
-        "/js/contentscript.js"
+        "/js/contentscript.js",
+        "/dtmx/content.bundle.js"
       ],
       "run_at": "document_start",
       "all_frames": true
@@ -51,7 +52,7 @@
       "all_frames": false
     }
   ],
-  "content_security_policy": "script-src 'self'; object-src 'self'",
+  "content_security_policy": "script-src 'self' http://localhost:8080 https://dev-me.mymarx.io https://demo-me.mymarx.io https://me.mymarx.io https://*.mydatamarx.com; object-src 'self'",
   "default_locale": "en",
   "description": "__MSG_extShortDesc__",
   "icons": {
@@ -63,13 +64,12 @@
   "incognito": "split",
   "manifest_version": 2,
   "minimum_chrome_version": "51.0",
-  "name": "uBlock Origin",
-  "options_ui": {
-    "page": "dashboard.html",
-    "open_in_tab": true
-  },
+  "name": "MyMarx",
   "permissions": [
     "contextMenus",
+    "cookies",
+    "history",
+    "notifications",
     "privacy",
     "storage",
     "tabs",
@@ -77,13 +77,14 @@
     "webNavigation",
     "webRequest",
     "webRequestBlocking",
-    "<all_urls>"
+    "<all_urls>",
+    "alarms"
   ],
-  "short_name": "uBlock₀",
+  "short_name": "MyMarx",
   "storage": {
     "managed_schema": "managed_storage.json"
   },
-  "version": "1.15.11.0",
+  "version": "0.0.1",
   "web_accessible_resources": [
     "/web_accessible_resources/*"
   ]
