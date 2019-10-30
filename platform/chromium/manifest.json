@@ -1,5 +1,5 @@
 {
-  "author": "Datamarx/uBlock open-source contributors",
+  "author": "Datamarx / uBlock open-source contributors",
   "background": {
     "page": "background.html"
   },
@@ -8,7 +8,7 @@
       "16": "img/icon_16.png",
       "32": "img/icon_32.png"
     },
-    "default_title": "MyMarx",
+    "default_title": "Marx",
     "default_popup": "/dtmx/index.html"
   },
   "commands": {
@@ -64,7 +64,7 @@
   "incognito": "split",
   "manifest_version": 2,
   "minimum_chrome_version": "51.0",
-  "name": "MyMarx",
+  "name": "Marx",
   "permissions": [
     "contextMenus",
     "cookies",
@@ -80,7 +80,7 @@
     "<all_urls>",
     "alarms"
   ],
-  "short_name": "MyMarx",
+  "short_name": "Marx",
   "storage": {
     "managed_schema": "managed_storage.json"
   },

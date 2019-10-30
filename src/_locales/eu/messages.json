@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Marx",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -568,7 +568,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: Egunkaria",
+    "message": "Marx wiki: Egunkaria",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {

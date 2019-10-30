@@ -568,7 +568,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "ويكي uBlock Origin: حافظ السجلات",
+    "message": "ويكي Marx: حافظ السجلات",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {

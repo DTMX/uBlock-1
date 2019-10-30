@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Marx",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Ovládací panel",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "Marx — Ovládací panel",
+    "description": "English: Marx — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Varování! Máte neuložené změny",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Protokol požadavků",
+    "message": "Marx — Protokol požadavků",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -56,7 +56,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Prohlížeč zdrojů",
+    "message": "Marx — Prohlížeč zdrojů",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -64,15 +64,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Kliknutí: trvale zakázat uBlock₀ pro celý tento web.\n\nCtrl+kliknutí: zakázat uBlock₀ pouze pro tuto stránku.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Kliknutí: trvale zakázat Marx pro celý tento web.\n\nCtrl+kliknutí: zakázat Marx pouze pro tuto stránku.",
+    "description": "English: Click: disable/enable Marx for this site.\n\nCtrl+click: disable Marx only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Kliknutí: trvale zakázat uBlock₀ pro celý tento web.\n\nCtrl+kliknutí: zakázat uBlock₀ pouze pro tuto stránku.",
+    "message": "Kliknutí: trvale zakázat Marx pro celý tento web.\n\nCtrl+kliknutí: zakázat Marx pouze pro tuto stránku.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Kliknutím povolíte uBlock₀ pro tento web.",
+    "message": "Kliknutím povolíte Marx pro tento web.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -372,7 +372,7 @@
     "description": "This will cause uBO to ignore all generic cosmetic filters."
   },
   "3pIgnoreGenericCosmeticFiltersInfo": {
-    "message": "<p>Obecné kosmetické filtry jsou kosmetické filtry vytvořené k použití se všemi webovými stránkami.<p>Přestože je uBlock₀ používá velmi efektivně, kosmetické filtry mohou přispět ke zvýšenému využití operační paměti a procesoru na některých webech, zejména těch velkých a složitých.<p>Zapnutím této volby se lze vyhnout nadbytečnému zatížení paměti i procesoru vyvolaném použitím obecných kosmetických filtrů a rovněž snížit využití paměti samotným uBlock₀ rozšířením.<p>Na méně výkonných zařízeních je doporučeno tuto volbu povolit.",
+    "message": "<p>Obecné kosmetické filtry jsou kosmetické filtry vytvořené k použití se všemi webovými stránkami.<p>Přestože je Marx používá velmi efektivně, kosmetické filtry mohou přispět ke zvýšenému využití operační paměti a procesoru na některých webech, zejména těch velkých a složitých.<p>Zapnutím této volby se lze vyhnout nadbytečnému zatížení paměti i procesoru vyvolaném použitím obecných kosmetických filtrů a rovněž snížit využití paměti samotným Marx rozšířením.<p>Na méně výkonných zařízeních je doporučeno tuto volbu povolit.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
   },
   "3pListsOfBlockedHostsHeader": {
@@ -508,7 +508,7 @@
     "description": "English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt": {
-    "message": "Pokyny whitelistu určují, pro které webové stránky bude uBlock Origin zakázán. Jedna položka na řádek. Neplatné pokyny budou tiše ignorovány a zakomentovány.",
+    "message": "Pokyny whitelistu určují, pro které webové stránky bude Marx zakázán. Jedna položka na řádek. Neplatné pokyny budou tiše ignorovány a zakomentovány.",
     "description": "English: An overview of the content of the dashboard's Whitelist pane."
   },
   "whitelistImport": {
@@ -568,7 +568,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: Logger",
+    "message": "Marx wiki: Logger",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -816,7 +816,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Všechna nastavení budou přepsána těmi zálohovanými {{time}} a uBlock₀ se restartuje.\n\nPřepsat všechna existující nastavení zálohovanými daty?",
+    "message": "Všechna nastavení budou přepsána těmi zálohovanými {{time}} a Marx se restartuje.\n\nPřepsat všechna existující nastavení zálohovanými daty?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -824,7 +824,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Všechna nastavení budou smazána a uBlock₀ se restaruje.\n\nObnovit uBlock₀ do továrního nastavení?",
+    "message": "Všechna nastavení budou smazána a Marx se restaruje.\n\nObnovit Marx do továrního nastavení?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -832,7 +832,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: Přidat následující URL adresu do seznamů vlastních filtrů?\n\nNázev: \"{{title}}\"\nURL: {{url}}",
+    "message": "Marx: Přidat následující URL adresu do seznamů vlastních filtrů?\n\nNázev: \"{{title}}\"\nURL: {{url}}",
     "description": "English: The message seen by the user to confirm subscription to a ABP filter list"
   },
   "elapsedOneMinuteAgo": {
@@ -869,11 +869,11 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "vypnutý",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'Marx (off)'"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin zabránil následující stránce v načtení:",
-    "description": "English: uBlock₀ has prevented the following page from loading:"
+    "message": "Marx zabránil následující stránce v načtení:",
+    "description": "English: Marx has prevented the following page from loading:"
   },
   "docblockedPrompt2": {
     "message": "Kvůli následujícímu filtru",

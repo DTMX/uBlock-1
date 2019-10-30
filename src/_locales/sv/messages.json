@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Marx",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Kontrollpanel",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "Marx — Kontrollpanel",
+    "description": "English: Marx — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Varning! Du har inte sparat dina ändringar",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Loggaren",
+    "message": "Marx — Loggaren",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -56,7 +56,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Tillgångsvisare",
+    "message": "Marx — Tillgångsvisare",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -64,15 +64,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Klick: inaktivera/aktivera uBlock₀ för hela webbplatsen.\n\nCtrl+klick: inaktivera uBlock₀ endast för den här sidan.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Klick: inaktivera/aktivera Marx för hela webbplatsen.\n\nCtrl+klick: inaktivera Marx endast för den här sidan.",
+    "description": "English: Click: disable/enable Marx for this site.\n\nCtrl+click: disable Marx only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Klicka för att inaktivera uBlock₀ för hela webbplatsen.\n\nCtrl+klicka för att inaktivera uBlock₀ enbart för den här sidan.",
+    "message": "Klicka för att inaktivera Marx för hela webbplatsen.\n\nCtrl+klicka för att inaktivera Marx enbart för den här sidan.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Klicka för att aktivera uBlock₀ på den här webbplatsen.",
+    "message": "Klicka för att aktivera Marx på den här webbplatsen.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -364,7 +364,7 @@
     "description": "English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo": {
-    "message": "<p>Det här alternativet aktiverar tolkning och applicering av <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-kompatibla &ldquo;elementdöljningsfilter&rdquo;</a>. Dessa filter är i huvudsak kosmetiska. De tjänar till att dölja element som anses vara till visuella besvär och som inte kan bli blockerade av den nätförfrågningsbaserade filtreringsmotorn.</p><p>Genom att aktivera denna funktion ökar uBlock₀s minnesanvändning.</p>",
+    "message": "<p>Det här alternativet aktiverar tolkning och applicering av <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-kompatibla &ldquo;elementdöljningsfilter&rdquo;</a>. Dessa filter är i huvudsak kosmetiska. De tjänar till att dölja element som anses vara till visuella besvär och som inte kan bli blockerade av den nätförfrågningsbaserade filtreringsmotorn.</p><p>Genom att aktivera denna funktion ökar Marxs minnesanvändning.</p>",
     "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature."
   },
   "3pIgnoreGenericCosmeticFilters": {
@@ -372,7 +372,7 @@
     "description": "This will cause uBO to ignore all generic cosmetic filters."
   },
   "3pIgnoreGenericCosmeticFiltersInfo": {
-    "message": "<p>Allmänna kosmetiska filter är de kosmetiska filter som är menade att användas på alla webbplatser.<p>Även om de hanteras effektivt av uBlock₀ så kan generiska kosmetiska filter bidra till en högre minnes- och processoranvändning på vissa webbplatser, särskilt stora och långlivade.<p>Aktiverar du den här inställning så eliminerar du den extra minnes- och processoranvändningen som allmänna kosmetiska filter medför och minskar också minnesanvändningen för själva uBlock₀.<p>Det rekommenderas att du aktiverar den här inställningen på mindre kraftfulla enheter.",
+    "message": "<p>Allmänna kosmetiska filter är de kosmetiska filter som är menade att användas på alla webbplatser.<p>Även om de hanteras effektivt av Marx så kan generiska kosmetiska filter bidra till en högre minnes- och processoranvändning på vissa webbplatser, särskilt stora och långlivade.<p>Aktiverar du den här inställning så eliminerar du den extra minnes- och processoranvändningen som allmänna kosmetiska filter medför och minskar också minnesanvändningen för själva Marx.<p>Det rekommenderas att du aktiverar den här inställningen på mindre kraftfulla enheter.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
   },
   "3pListsOfBlockedHostsHeader": {
@@ -508,7 +508,7 @@
     "description": "English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt": {
-    "message": "Vitlistans direktiv dikterar på vilka webbplatser uBlock Origin ska inaktiveras. En post per rad. Ogiltiga direktiv kommer tyst att ignoreras och kommenteras ut.",
+    "message": "Vitlistans direktiv dikterar på vilka webbplatser Marx ska inaktiveras. En post per rad. Ogiltiga direktiv kommer tyst att ignoreras och kommenteras ut.",
     "description": "English: An overview of the content of the dashboard's Whitelist pane."
   },
   "whitelistImport": {
@@ -568,7 +568,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: Loggaren",
+    "message": "Marx wiki: Loggaren",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -816,7 +816,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Alla dina inställningar kommer att skrivas över med data som har säkerhetskopierats {{time}} och uBlock₀ kommer att starta om.\n\nVill du skriva över befintliga inställningar med säkerhetskopierad data?",
+    "message": "Alla dina inställningar kommer att skrivas över med data som har säkerhetskopierats {{time}} och Marx kommer att starta om.\n\nVill du skriva över befintliga inställningar med säkerhetskopierad data?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -824,7 +824,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Alla dina inställningar kommer att tas bort och uBlock₀ kommer att starta om.\n\nÅterställ uBlock₀ till fabriksinställningar?",
+    "message": "Alla dina inställningar kommer att tas bort och Marx kommer att starta om.\n\nÅterställ Marx till fabriksinställningar?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -832,7 +832,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: Lägg till följande webbadress till din skräddarsydda filterlista?\n\nTitel: \"{{title}}\"\nWebbadress: {{url}}",
+    "message": "Marx: Lägg till följande webbadress till din skräddarsydda filterlista?\n\nTitel: \"{{title}}\"\nWebbadress: {{url}}",
     "description": "English: The message seen by the user to confirm subscription to a ABP filter list"
   },
   "elapsedOneMinuteAgo": {
@@ -869,11 +869,11 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "av",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'Marx (off)'"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin har förhindrat följande sida från att läsas in:",
-    "description": "English: uBlock₀ has prevented the following page from loading:"
+    "message": "Marx har förhindrat följande sida från att läsas in:",
+    "description": "English: Marx has prevented the following page from loading:"
   },
   "docblockedPrompt2": {
     "message": "På grund av följande filter",

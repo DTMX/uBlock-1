@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock₀",
+    "message": "Marx",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — פאנל הקונפיגורציות",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "Marx — פאנל הקונפיגורציות",
+    "description": "English: Marx — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "אזהרה! יש לך שינויים בלתי שמורים",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — מתעד הבקשות",
+    "message": "Marx — מתעד הבקשות",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -56,7 +56,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — מציג הנכסים",
+    "message": "Marx — מציג הנכסים",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -64,15 +64,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "לחיצה: כבה/הפעל את uBlock₀ לאתר זה לצמיתות.\n\nCtrl+לחיצה: כבה את uBlock₀ רק בדף זה.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "לחיצה: כבה/הפעל את Marx לאתר זה לצמיתות.\n\nCtrl+לחיצה: כבה את Marx רק בדף זה.",
+    "description": "English: Click: disable/enable Marx for this site.\n\nCtrl+click: disable Marx only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "לחיצה: כבה את uBlock₀ לאתר זה.\n\nCtrl+לחיצה: כבה את uBlock₀ רק בדף זה.",
+    "message": "לחיצה: כבה את Marx לאתר זה.\n\nCtrl+לחיצה: כבה את Marx רק בדף זה.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "לחץ על מנת להפעיל את uBlock₀ באתר זה.",
+    "message": "לחץ על מנת להפעיל את Marx באתר זה.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -364,7 +364,7 @@
     "description": "English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo": {
-    "message": "<p>אפשרות זו מאפשרת פירסור ואיפשור של <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">מסנני &ldquo;ההסתרת האלמנטים&rdquo; התואמים ל Adblock Plus</a>. מסננים אלו הם קוסמטיים, הם נועדו להסתיר אלמנטים בדף אשר נחשבים למטרד חזותי, ואשר לא יכולים להיחסם על ידי מנוע חסימת בקשות רשת.</p><p>הפעלת פיצ'ר זה מעלה את צריכת הזיכרון של <i>uBlock₀</i></p>",
+    "message": "<p>אפשרות זו מאפשרת פירסור ואיפשור של <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">מסנני &ldquo;ההסתרת האלמנטים&rdquo; התואמים ל Adblock Plus</a>. מסננים אלו הם קוסמטיים, הם נועדו להסתיר אלמנטים בדף אשר נחשבים למטרד חזותי, ואשר לא יכולים להיחסם על ידי מנוע חסימת בקשות רשת.</p><p>הפעלת פיצ'ר זה מעלה את צריכת הזיכרון של <i>Marx</i></p>",
     "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature."
   },
   "3pIgnoreGenericCosmeticFilters": {
@@ -372,7 +372,7 @@
     "description": "This will cause uBO to ignore all generic cosmetic filters."
   },
   "3pIgnoreGenericCosmeticFiltersInfo": {
-    "message": "<p>מסננים קוסמטיים כלליים הם המסננים הקוסמטיים אשר מיועדים להיות מוחלים על כל דפי האינטרנט.<p>למרות ש uBlock₀ מטפל בהם ביעילות, מסננים קוסמטיים כללים יכולים להכביד על הזיכרון וה CPU בדפי אינטרנט מסוימים, בעיקר לדפי אינטרנט גדולים ובעלי חיים ארוכים.<p>אפשור הגדרה זו תמנע את השימוש הרב בזיכרון וב CPU אשר נוספים לדפי אינטרנט כתוצאה משימוש במסננים קוסמטיים כלליים, וגם תוריד את צריכת הזיכרון של uBlock₀ עצמו.<p>מומלץ לאפשר הגדרה זו במכשירים חלשים יותר.",
+    "message": "<p>מסננים קוסמטיים כלליים הם המסננים הקוסמטיים אשר מיועדים להיות מוחלים על כל דפי האינטרנט.<p>למרות ש Marx מטפל בהם ביעילות, מסננים קוסמטיים כללים יכולים להכביד על הזיכרון וה CPU בדפי אינטרנט מסוימים, בעיקר לדפי אינטרנט גדולים ובעלי חיים ארוכים.<p>אפשור הגדרה זו תמנע את השימוש הרב בזיכרון וב CPU אשר נוספים לדפי אינטרנט כתוצאה משימוש במסננים קוסמטיים כלליים, וגם תוריד את צריכת הזיכרון של Marx עצמו.<p>מומלץ לאפשר הגדרה זו במכשירים חלשים יותר.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
   },
   "3pListsOfBlockedHostsHeader": {
@@ -508,7 +508,7 @@
     "description": "English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt": {
-    "message": "הרשומות ברשימה הלבנה מציינות באילו דפי אינטרנט uBlock Origin לא יהיה פעיל. רשומה אחת בכל שורה. רשומות לא חוקיות תתעלמנה בשקט ויסומנו כהערות.",
+    "message": "הרשומות ברשימה הלבנה מציינות באילו דפי אינטרנט Marx לא יהיה פעיל. רשומה אחת בכל שורה. רשומות לא חוקיות תתעלמנה בשקט ויסומנו כהערות.",
     "description": "English: An overview of the content of the dashboard's Whitelist pane."
   },
   "whitelistImport": {
@@ -568,7 +568,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: The logger",
+    "message": "Marx wiki: The logger",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -816,7 +816,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "כל ההגדרות שלך יוחלפו בנתונים שגובו ב {{time}}, ו uBlock₀ יופעל מחדש.\n\nהאם להחליף את כל ההגדרות הקיימות בנתונים המגובים?",
+    "message": "כל ההגדרות שלך יוחלפו בנתונים שגובו ב {{time}}, ו Marx יופעל מחדש.\n\nהאם להחליף את כל ההגדרות הקיימות בנתונים המגובים?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -824,7 +824,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "כל ההגדרות שלך יימחקו, ו uBlock₀ יופעל מחדש.\n\nלאפס את uBlock₀ להגדרות ברירת מחדל?",
+    "message": "כל ההגדרות שלך יימחקו, ו Marx יופעל מחדש.\n\nלאפס את Marx להגדרות ברירת מחדל?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -832,7 +832,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: הוסף את הכתובת הבאה לרשימת הפילטרים המותאמים אישית שלך?\n\nכותרת: \"{{title}}\"\nכתובת URL: {{url}}",
+    "message": "Marx: הוסף את הכתובת הבאה לרשימת הפילטרים המותאמים אישית שלך?\n\nכותרת: \"{{title}}\"\nכתובת URL: {{url}}",
     "description": "English: The message seen by the user to confirm subscription to a ABP filter list"
   },
   "elapsedOneMinuteAgo": {
@@ -869,11 +869,11 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "מכובה",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'Marx (off)'"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin מנע מהעמוד הבא להיטען:",
-    "description": "English: uBlock₀ has prevented the following page from loading:"
+    "message": "Marx מנע מהעמוד הבא להיטען:",
+    "description": "English: Marx has prevented the following page from loading:"
   },
   "docblockedPrompt2": {
     "message": "בגלל המסנן הבא",

@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock₀",
+    "message": "Marx",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Панель управления",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "Marx — Панель управления",
+    "description": "English: Marx — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Внимание! У вас есть несохраненные изменения",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Логгер",
+    "message": "Marx — Логгер",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -56,7 +56,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Активы",
+    "message": "Marx — Активы",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -64,15 +64,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "ЛКМ: отключить/включить uBlock₀ для этого сайта.\n\nCtrl+ЛКМ: отключить uBlock₀ только на этой странице.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "ЛКМ: отключить/включить Marx для этого сайта.\n\nCtrl+ЛКМ: отключить Marx только на этой странице.",
+    "description": "English: Click: disable/enable Marx for this site.\n\nCtrl+click: disable Marx only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Кликните, чтобы отключить uBlock₀ для этого сайта.\nCtrl+клик, чтобы отключить uBlock₀ только на этой странице.",
+    "message": "Кликните, чтобы отключить Marx для этого сайта.\nCtrl+клик, чтобы отключить Marx только на этой странице.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Кликните, чтобы активировать uBlock₀ для этого сайта.",
+    "message": "Кликните, чтобы активировать Marx для этого сайта.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -364,7 +364,7 @@
     "description": "English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo": {
-    "message": "<p>Эта опция включает использование анализатора <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-совместимых фильтров &ldquo;скрытия элементов&rdquo;</a>. Это косметические фильтры, дающие возможность скрыть ненужные элементы страницы, которые не могут быть заблокированы механизмом фильтрации сетевых запросов.</p><p>Использование данной опции увеличивает потребление памяти uBlock₀.</p>",
+    "message": "<p>Эта опция включает использование анализатора <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-совместимых фильтров &ldquo;скрытия элементов&rdquo;</a>. Это косметические фильтры, дающие возможность скрыть ненужные элементы страницы, которые не могут быть заблокированы механизмом фильтрации сетевых запросов.</p><p>Использование данной опции увеличивает потребление памяти Marx.</p>",
     "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature."
   },
   "3pIgnoreGenericCosmeticFilters": {
@@ -372,7 +372,7 @@
     "description": "This will cause uBO to ignore all generic cosmetic filters."
   },
   "3pIgnoreGenericCosmeticFiltersInfo": {
-    "message": "<p>Общие косметические фильтры — это те косметические фильтры, которые должны применяться на всех веб-сайтах.<p>Хотя uBlock₀ и обращается с ними эффективно, общие косметические фильтры всё равно могут потреблять ощутимое количество оперативной памяти и нагружать ЦПУ на некоторых, в особенности больших, страницах.<p>Включение этой опции снизит потребление памяти веб-страницами, и избавит процессор от обработки общих косметических фильтров, а также снизит потребление памяти самого uBlock₀.<p>Рекомендуется включить этот параметр на слабых устройствах.",
+    "message": "<p>Общие косметические фильтры — это те косметические фильтры, которые должны применяться на всех веб-сайтах.<p>Хотя Marx и обращается с ними эффективно, общие косметические фильтры всё равно могут потреблять ощутимое количество оперативной памяти и нагружать ЦПУ на некоторых, в особенности больших, страницах.<p>Включение этой опции снизит потребление памяти веб-страницами, и избавит процессор от обработки общих косметических фильтров, а также снизит потребление памяти самого Marx.<p>Рекомендуется включить этот параметр на слабых устройствах.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
   },
   "3pListsOfBlockedHostsHeader": {
@@ -508,7 +508,7 @@
     "description": "English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt": {
-    "message": "Белый список указывает на каких веб-страницах uBlock Origin должен быть отключен. Одна запись на строку. Некорректные записи будут без предупреждений проигнорированы и закомментированы.",
+    "message": "Белый список указывает на каких веб-страницах Marx должен быть отключен. Одна запись на строку. Некорректные записи будут без предупреждений проигнорированы и закомментированы.",
     "description": "English: An overview of the content of the dashboard's Whitelist pane."
   },
   "whitelistImport": {
@@ -568,7 +568,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin вики: Логгер",
+    "message": "Marx вики: Логгер",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -816,7 +816,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Текущие настройки будут заменены данными из резервной копии от {{time}}, и uBlock₀ будет перезапущен.\n\nПерезаписать все существующие параметры данными из резервной копии?",
+    "message": "Текущие настройки будут заменены данными из резервной копии от {{time}}, и Marx будет перезапущен.\n\nПерезаписать все существующие параметры данными из резервной копии?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -824,7 +824,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Все ваши настройки будут удалены, uBlock₀ будет перезапущен. \n\nВосстановить настройки по умолчанию?",
+    "message": "Все ваши настройки будут удалены, Marx будет перезапущен. \n\nВосстановить настройки по умолчанию?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -832,7 +832,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: добавить следующий адрес в ваш список фильтров?\n\nНазвание: \"{{title}}\"\nURL-адрес: {{url}}",
+    "message": "Marx: добавить следующий адрес в ваш список фильтров?\n\nНазвание: \"{{title}}\"\nURL-адрес: {{url}}",
     "description": "English: The message seen by the user to confirm subscription to a ABP filter list"
   },
   "elapsedOneMinuteAgo": {
@@ -869,11 +869,11 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "выключен",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'Marx (off)'"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin предотвратил загрузку следующей страницы:",
-    "description": "English: uBlock₀ has prevented the following page from loading:"
+    "message": "Marx предотвратил загрузку следующей страницы:",
+    "description": "English: Marx has prevented the following page from loading:"
   },
   "docblockedPrompt2": {
     "message": "Из-за следующего фильтра",
